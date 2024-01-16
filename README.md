@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi There! 👋
+## I'm Connor Federoff, a Computer Science Student Studying at Purdue University
 <!--
 **cfederoff/Cfederoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
