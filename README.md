@@ -1,6 +1,7 @@
 # 👋 Hi, Im Connor! 
 ## 🖥️ Software Engineering Projects
-- [ReviewScraper](https://github.com/cfederoff/ReviewScraper)
+- [📋ReviewScraper](https://github.com/cfederoff/ReviewScraper)
+- [⛅️SimpleWeatherApp](https://github.com/cfederoff/WeatherApp)
 
 
 
