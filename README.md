@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Connor! 
 ## About Me
-I'm a Computer Science student in my first-year studying at Purdue University. I started programming in high school in computer science class and found I enjoy coding and creating software. Currently, I'm currently working towards my degree in Computer Science and with Sandia National Labortories through Purdue's Data Mine Coporate Partnerships on predicting flight trajectories. I enjoy watching sports, playing golf, learning efficently as possible and playing games in my free time.
+I'm a computer science student in my first-year studying at Purdue University. I started programming in high school during computer science class and found I enjoy coding and creating software. Currently, I'm working towards my degree and with Sandia National Laboratories through Purdue's Data Mine corporate partnerships to predict flight trajectories. I enjoy watching sports, playing golf, learning as efficiently as possible, and playing games in my free time.
 ## 🖥️ Software Engineering Projects
 - [📋ReviewScraper](https://github.com/cfederoff/ReviewScraper)
 - [⛅️SimpleWeatherApp](https://github.com/cfederoff/WeatherApp)
